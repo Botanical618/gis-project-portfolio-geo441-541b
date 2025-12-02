@@ -32,4 +32,4 @@ Author: Will Sayner
 
 ## Miscellaneous
 
--[Extra Maps](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/tree/main/extra)
+- [Extra Maps](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/tree/main/extra)
