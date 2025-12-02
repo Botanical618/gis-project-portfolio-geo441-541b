@@ -16,6 +16,7 @@ Author: Will Sayner
 ## Vector Data Visualization
 
 - [Maps of Ohio Census Data](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/census-data-analysis/Census_Data.ipynb)
+- [Elevation and Hydrology Mapping](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/elevation-hydrology-data/Digital_Elevation_Hydrology_Data.ipynb)
 
 ## Vector Data Table Analysis
 
