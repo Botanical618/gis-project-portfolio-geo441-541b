@@ -11,6 +11,7 @@ Author: Will Sayner
 - [Data Modeling and Mapping](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/Data_Modeling_Mapping.ipynb)
 - [Latitude and Longitude Practice](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/Latitude_and_Longitude.ipynb)
 - [Projecting Geographic Data](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/Projecting_Geographic_Data.ipynb)
+- [Data Entry and Digitizing](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/data-entry-editing/Data_Entry_Digitizing.ipynb)
 
 ## Vector Data Visualization
 
