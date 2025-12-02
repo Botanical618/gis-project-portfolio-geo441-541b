@@ -18,4 +18,4 @@ Author: Will Sayner
 - [Maps of Oxford, OH topography](GitHub Link)
 
 ## Spatial Data Analysis
-- [Maps of John Snow's Cholera Outbreak Invesitation in Soho](GitHub Link)
+- [Maps of John Snow's Cholera Outbreak Invesitation in Soho](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/vector-data-analysis/Vector_Data_Spatial_Analysis.ipynb)
