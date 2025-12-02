@@ -7,15 +7,15 @@ Author: Will Sayner
 
 ## Basic Mapping
 
-- [First map in ArcGIS Pro](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/Intro_ArcGIS_Pro_GUI.ipynb)
+- [First Map in ArcGIS Pro](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/Intro_ArcGIS_Pro_GUI.ipynb)
 
 ## Vector Data Visualization
 
-- [Map of U.S. county age indexes based on 2000 census data](GitHub Link)
+- [Maps of Ohio Census Data](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/census-data-analysis/Census_Data.ipynb)
 
 ## Raster Data Visualization
 
-- [Maps of Oxford, OH topography](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/raster-data-analysis/Raster_Data_Terrain_Analysis.ipynb)
+- [Maps of Oxford, OH Topography](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/raster-data-analysis/Raster_Data_Terrain_Analysis.ipynb)
 
 ## Spatial Data Analysis
 - [Maps of John Snow's Cholera Outbreak Invesitation in Soho](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/vector-data-analysis/Vector_Data_Spatial_Analysis.ipynb)
