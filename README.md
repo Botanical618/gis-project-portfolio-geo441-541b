@@ -8,6 +8,7 @@ Author: Will Sayner
 ## Basic Mapping
 
 - [First Map in ArcGIS Pro](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/Intro_ArcGIS_Pro_GUI.ipynb)
+- [Data Modeling and Mapping](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/Data_Modeling_Mapping.ipynb)
 
 ## Vector Data Visualization
 
