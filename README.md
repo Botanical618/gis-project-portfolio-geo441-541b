@@ -13,13 +13,14 @@ Author: Will Sayner
 
 - [Maps of Ohio Census Data](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/census-data-analysis/Census_Data.ipynb)
 
+## Vector Data Table Analysis
+
+- [Vector Table Editing](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/vector-tables-analysis/Querying_Vector_Data_Tables.ipynb)
+
 ## Raster Data Visualization
 
 - [Maps of Oxford, OH Topography](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/raster-data-analysis/Raster_Data_Terrain_Analysis.ipynb)
 
 ## Spatial Data Analysis
+
 - [Maps of John Snow's Cholera Outbreak Invesitation in Soho](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/vector-data-analysis/Vector_Data_Spatial_Analysis.ipynb)
-
-## Vector Data Table Analysis
-
-- [Vector](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/vector-tables-analysis/Querying_Vector_Data_Tables.ipynb)
