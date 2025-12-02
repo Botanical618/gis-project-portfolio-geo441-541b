@@ -9,6 +9,7 @@ Author: Will Sayner
 
 - [First Map in ArcGIS Pro](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/Intro_ArcGIS_Pro_GUI.ipynb)
 - [Data Modeling and Mapping](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/Data_Modeling_Mapping.ipynb)
+- [Latitude and Longitude Practice](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/Latitude_and_Longitude.ipynb)
 
 ## Vector Data Visualization
 
