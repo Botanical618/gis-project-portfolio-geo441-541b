@@ -29,3 +29,7 @@ Author: Will Sayner
 ## Spatial Data Analysis
 
 - [Maps of John Snow's Cholera Outbreak Invesitation in Soho](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/blob/main/vector-data-analysis/Vector_Data_Spatial_Analysis.ipynb)
+
+## Miscellaneous
+
+-[Extra Maps](https://github.com/Botanical618/gis-project-portfolio-geo441-541b/tree/main/extra)
